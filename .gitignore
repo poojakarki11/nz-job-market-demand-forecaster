@@ -1,0 +1,10 @@
+data/*
+!data/.gitkeep
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.pth
+*.pt
+*.h5
+*.pkl
